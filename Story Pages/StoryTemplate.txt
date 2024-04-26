@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>
+        Story, you are playing a Short-Visual Novel
+    </title>
+    <link rel="stylesheet" href="/Home.css"> <!--Connects this file to css file -->
+</head>
+
+<body>
+    <h1>Story, You are Playing a Short-Visual Novel</h1>
+    <nav class="flex-container"><!--Code from:https://www.w3schools.com/tags/tag_nav.asp-->
+        <a class="flex-item" href="/Home.html">Home</a>
+        <a class="flex-item" href="/Story Pages/Story.html">Story</a>
+        <a class="flex-item" href="/Other 3 Main Pages/Secrets Page 1.html">Secrets</a>
+        <a class="flex-item" href="/Other 3 Main Pages/About.html">About</a>
+    </nav>
+    <main class="flex4-container">
+        <p  class="flex4-item" id="Paragraph-block4">
+            
+            What should you do?
+        </p>
+        <img class="flex4-item" src="" alt="">
+    </main>
+    <section>
+        <a id="Choice_Links" href=""></a>
+        <br>
+        <br>
+        <a id="Choice_Links" href=""></a>
+
+    </section>
+</body>
+<footer>
+    <hr>
+    <p>This Website was made by David Seman (40591110)</p>
+</footer>
+
+</html>
